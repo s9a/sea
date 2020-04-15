@@ -1,4 +1,3 @@
-.sea-wet:not(.sea-dry),
 .sea-wet :not(.sea-dry) { background: none; color: inherit }
 .sea-blood { background: var(--sea-oil) !important; color: var(--sea-ink) !important }
 .sea-bleed { background: var(--sea-ink) !important; color: var(--sea-oil) !important }
