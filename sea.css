@@ -2,8 +2,8 @@
 :root { --sea-ink: #000; --sea-oil: seashell }
 .sea-wet :not(.sea-dry) { background: none; color: inherit }
 .sea-wet ::selection { background: indigo; color: salmon }
-.sea-blood { background: var(--sea-oil) !important; color: var(--sea-ink) !important }
-.sea-bleed { background: var(--sea-ink) !important; color: var(--sea-oil) !important }
+.sea-blood.sea-blood { background: var(--sea-oil); color: var(--sea-ink) }
+.sea-bleed.sea-bleed { background: var(--sea-ink); color: var(--sea-oil) }
 .sea-amber { --sea-oil: salmon }
 .sea-blush { --sea-oil: pink }
 .sea-breeze { --sea-oil: mistyrose }
