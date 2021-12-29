@@ -1,3 +1,8 @@
+:focus {
+  outline-style: dotted;
+  outline-width: thick;
+}
+
 .ska-riot {
   font-family: sans-serif;
   font-size: calc(1em + 1vw + 1vh);
@@ -42,14 +47,6 @@
   list-style: none;
 }
 
-.ska-serve {
-  box-sizing: border-box;
-  margin: 0;
-  padding: 0;
-  list-style: none;
-}
-
-.ska-inhale { margin-top: 1rem }
-.ska-exhale { margin-bottom: 2rem }
-
+.ska-inhale { margin-block-start: 1rem }
+.ska-exhale { margin-block-end: 2rem }
 .ska-sane { max-width: 20em }
