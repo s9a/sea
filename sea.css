@@ -1,12 +1,5 @@
 /* opensource color from the s9a.page/sea */
-:root { --sea-ink: #000; --sea-oil: seashell }
-.sea-wet :not(.sea-dry) { background: none; color: inherit }
-.sea-wet ::selection { background: indigo; color: salmon }
-.sea-blood.sea-blood { background: var(--sea-oil); color: var(--sea-ink) }
-.sea-bleed.sea-bleed { background: var(--sea-ink); color: var(--sea-oil) }
-@media (prefers-color-scheme: light) {
-  .sea-bleed.sea-blood { background: var(--sea-oil); color: var(--sea-ink) }
-}
+:root { --sea-oil:seashell; --sea-ink:#000 }
 .sea-amber { --sea-oil: salmon }
 .sea-blush { --sea-oil: pink }
 .sea-breeze { --sea-oil: mistyrose }
@@ -34,4 +27,26 @@
   .sea-glow { --sea-oil: #ee1 }
   .sea-gush { --sea-oil: plum }
   .sea-lava { --sea-oil: tan }
+}
+.sea-wet :not(.sea-dry) {
+  background: none;
+  color: inherit;
+}
+.sea-wet ::selection {
+  background: indigo;
+  color: salmon;
+}
+.sea-blood.sea-blood {
+  background: var(--sea-oil);
+  color: var(--sea-ink);
+}
+.sea-bleed.sea-bleed {
+  background: var(--sea-ink);
+  color: var(--sea-oil);
+}
+@media (prefers-color-scheme:light) {
+  .sea-bleed.sea-blood {
+    background: var(--sea-oil);
+    color: var(--sea-ink);
+  }
 }
