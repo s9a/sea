@@ -1,17 +1,17 @@
-# `sea`
+# [dive](#interface) into our [colorful](https://s9a.page/sea#color) sea
 
-[<b>Dive into the colorful `sea`</b>](https://s9a.page/sea)
-
-## inspire
+## [inspire](https://s9a.page/sea)
 
 ### <dfn>sea</dfn> is [opensource](UNLICENSE.txt) web color code under the sea
 
 * [colorful spectrum](https://s9a.page/sea)
 * [oceanic naming](sea.css)
+* [media aware](https://webmural.com/media)
 
-## imagine
+## [imagine](sea.css)
 
-[CSS `var` flow inside the sea](sea.css)
+* CSS variables
+* media queries
 
 ## [interface](index.html)
 
@@ -19,5 +19,6 @@
 
 * `sea-blood` shows black text
 * `sea-bleed` shows black background
+* tag with both for light dark shift
 
 ### mix with [desired color](sea.css) <br> as [exampled online](https://s9a.page/sea)
