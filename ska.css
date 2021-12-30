@@ -26,12 +26,18 @@
 
 .ska-wave {
   display: table;
-  padding: 1rem;
+  padding: 1ex;
+  padding-block: 1em;
 }
 
 .ska-vest { line-height: inherit; font-weight: 400; font-size: 1rem }
 .ska-know { line-height: inherit; font-weight: 600; font-size: 1.6rem }
 .ska-high { line-height: inherit; font-weight: 700; font-size: 2.6rem }
+
+.ska-blend {
+  font: inherit;
+  margin: unset;
+}
 
 .ska-block {
   display: block;
@@ -49,4 +55,4 @@
 
 .ska-inhale { margin-block-start: 1rem }
 .ska-exhale { margin-block-end: 2rem }
-.ska-mosh { max-width: 50vw }
+.ska-mosh { max-width: 33vw }

@@ -5,7 +5,7 @@
 .sea-breeze { --sea-oil: mistyrose }
 .sea-foam { --sea-oil: darkturquoise }
 .sea-fume { --sea-oil: hotpink }
-.sea-gel { --sea-oil: slateblue }
+.sea-gel { --sea-oil: mediumslateblue }
 .sea-glow { --sea-oil: gold }
 .sea-gush { --sea-oil: violet }
 .sea-lava { --sea-oil: rosybrown }
@@ -23,7 +23,7 @@
 @media (prefers-contrast: more) {
   .sea-amber { --sea-oil: coral }
   .sea-foam { --sea-oil: turquoise }
-  .sea-gel { --sea-oil: mediumslateblue }
+  .sea-gel { --sea-oil: mediumpurple }
   .sea-glow { --sea-oil: #ee1 }
   .sea-gush { --sea-oil: plum }
   .sea-lava { --sea-oil: tan }
