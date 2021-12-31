@@ -55,7 +55,7 @@
 
 .ska-inhale { margin-block-start: 1rem }
 .ska-exhale { margin-block-end: 2rem }
-.ska-mosh { max-width: 33vw }
+.ska-mosh { max-width: 14em }
 
 ins {
   text-decoration: line-through dotted 3pt;
