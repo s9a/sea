@@ -16,13 +16,13 @@
 
 ## [interface](index.html)
 
-### [blood or bleed](https://s9a.page/sea#plunge)
+### [blood, bleed, both](https://s9a.page/sea#plunge)
 
 * [`sea-blood`](https://s9a.page/sea#blood) shows black text
 * [`sea-bleed`](https://s9a.page/sea#bleed) shows black background
 * [tag with both for light dark shift](https://s9a.page/sea#both)
 
-### mix with [desired color](sea.css)<br>as like [sampled online](https://s9a.page/sea)
+### mix with [desired color](sea.css)<br>as [sampled online](https://s9a.page/sea)<br>or [cascade](https://webmural.com/css) further
 
 ### [`filter`](https://developer.mozilla.org/CSS/filter)
 
