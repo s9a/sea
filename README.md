@@ -18,8 +18,8 @@
 
 ### [blood, bleed, both](https://s9a.page/sea#plunge)
 
-* [`sea-blood`](https://s9a.page/sea#blood) shows black text
-* [`sea-bleed`](https://s9a.page/sea#bleed) shows black background
+* [`sea-blood`](https://s9a.page/sea#blood) shows solar color
+* [`sea-bleed`](https://s9a.page/sea#bleed) shows lunar color
 * [tag with both for light dark shift](https://s9a.page/sea#both)
 
 ### mix with [desired color](sea.css)<br>as [sampled online](https://s9a.page/sea)<br>or [cascade](https://webmural.com/css) further
