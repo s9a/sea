@@ -13,6 +13,7 @@
 .sea-storm { --sea-oil: gainsboro }
 .sea-tide { --sea-oil: deepskyblue }
 @media (prefers-contrast: less) {
+  :root { --sea-ink:#111 }
   .sea-blush { --sea-oil: lightpink }
   .sea-breeze { --sea-oil: bisque }
   .sea-fume { --sea-oil: mediumorchid }
