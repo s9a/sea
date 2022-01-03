@@ -61,3 +61,10 @@ ins {
   text-decoration: line-through dotted 3pt;
   opacity: .5;
 }
+
+@media (orientation: portrait) {
+  .ska-canal {
+    width: 8em;
+    overflow: visible;
+  }
+}
