@@ -1,4 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 3000 3000">
-  <title>hotpink sea</title>
+  <title>seawater</title>
+  <style media="(prefers-contrast: less)">
+    rect { fill: mediumorchid }
+  </style>
+  <style media="(prefers-contrast: more)">
+    rect { fill: plum }
+  </style>
   <rect fill="hotpink" width="100%" height="100%" />
 </svg>
