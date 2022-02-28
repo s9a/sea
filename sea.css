@@ -30,24 +30,24 @@
   .sea-lava { --sea-oil: tan }
 }
 .sea-wet :not(.sea-dry) {
-  background: none;
+  background-color: none;
   color: inherit;
 }
 .sea-wet ::selection {
-  background: indigo;
+  background-color: indigo;
   color: salmon;
 }
 .sea-blood.sea-blood {
-  background: var(--sea-oil);
+  background-color: var(--sea-oil);
   color: var(--sea-ink);
 }
 .sea-bleed.sea-bleed {
-  background: var(--sea-ink);
+  background-color: var(--sea-ink);
   color: var(--sea-oil);
 }
 @media (prefers-color-scheme:light) {
   .sea-bleed.sea-blood {
-    background: var(--sea-oil);
+    background-color: var(--sea-oil);
     color: var(--sea-ink);
   }
 }
